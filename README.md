@@ -19,6 +19,8 @@
 
 Make sure you check out [INSTALL.md](INSTALL.md) before getting started.
 
+Check out [deepfake examples](https://sexcelebrity.net)!
+
 - [deepfakes_faceswap](#deepfakesfaceswap)
 - [Manifesto](#manifesto)
   - [FaceSwap has ethical uses.](#faceswap-has-ethical-uses)
